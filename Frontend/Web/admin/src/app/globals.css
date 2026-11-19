@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-barlow), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-shoulders), var(--font-barlow), sans-serif;
+  /* Sagram Sports palette, shared with the customer site */
+  --color-chalk: #f4f6f9;
+  --color-navy: #0f1e4a;
+  --color-cobalt: #1f3fd1;
+  --color-shirt: #ffc72c;
+  --color-turf: #12704a;
+  --color-slate: #5b6478;
+  --color-line: #d9dee9;
+  --color-danger: #c42b2b;
+}
+
+body {
+  background: var(--color-chalk);
+  color: var(--color-navy);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-cobalt);
+  outline-offset: 2px;
+}
+
+/* Transparent-image backdrop for photo previews */
+.checker {
+  background-color: #fff;
+  background-image:
+    linear-gradient(45deg, #e8ebf1 25%, transparent 25%),
+    linear-gradient(-45deg, #e8ebf1 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #e8ebf1 75%),
+    linear-gradient(-45deg, transparent 75%, #e8ebf1 75%);
+  background-size: 16px 16px;
+  background-position: 0 0, 0 8px, 8px -8px, -8px 0;
+}

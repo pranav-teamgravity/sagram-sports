@@ -1,0 +1,367 @@
+[
+  {
+    "id": "p2",
+    "slug": "brazil-home-2024",
+    "team": "Brazil",
+    "name": "Brazil home jersey",
+    "season": "2024/26",
+    "sport": "football",
+    "price": 1899,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/brazil/0.webp",
+        "/jerseys/brazil/1.webp",
+        "/jerseys/brazil/2.webp",
+        "/jerseys/brazil/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p3",
+    "slug": "argentina-home-2022",
+    "team": "Argentina",
+    "name": "Argentina home jersey",
+    "season": "2022/26",
+    "sport": "football",
+    "price": 1899,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/argentina/0.webp",
+        "/jerseys/argentina/1.webp",
+        "/jerseys/argentina/2.webp",
+        "/jerseys/argentina/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p5",
+    "slug": "barcelona-third-2026",
+    "team": "Barcelona",
+    "name": "Barcelona third jersey",
+    "season": "2026/27",
+    "sport": "football",
+    "price": 2299,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/barcelona/0.webp",
+        "/jerseys/barcelona/1.webp",
+        "/jerseys/barcelona/2.webp",
+        "/jerseys/barcelona/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p9",
+    "slug": "manchester-united-home-2026",
+    "team": "Manchester United",
+    "name": "Manchester United home jersey",
+    "season": "2026/27",
+    "sport": "football",
+    "price": 2199,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/manchester-united/0.webp",
+        "/jerseys/manchester-united/1.webp",
+        "/jerseys/manchester-united/2.webp",
+        "/jerseys/manchester-united/3.webp",
+        "/jerseys/manchester-united/4.webp",
+        "/jerseys/manchester-united/5.webp",
+        "/jerseys/manchester-united/6.webp"
+      ],
+      "rack": 6,
+      "hover": 2,
+      "thumbs": [
+        0,
+        2,
+        6,
+        5
+      ],
+      "rackMirror": true
+    }
+  },
+  {
+    "id": "p10",
+    "slug": "manchester-city-home-2025",
+    "team": "Manchester City",
+    "name": "Manchester City home jersey",
+    "season": "2025/26",
+    "sport": "football",
+    "price": 2199,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/manchester-city/0.webp",
+        "/jerseys/manchester-city/1.webp",
+        "/jerseys/manchester-city/2.webp",
+        "/jerseys/manchester-city/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p17",
+    "slug": "chelsea-home-2025",
+    "team": "Chelsea",
+    "name": "Chelsea home jersey",
+    "season": "2025/26",
+    "sport": "football",
+    "price": 2199,
+    "mrp": 2599,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/chelsea/0.webp",
+        "/jerseys/chelsea/1.webp",
+        "/jerseys/chelsea/2.webp",
+        "/jerseys/chelsea/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p20",
+    "slug": "liverpool-home-2025",
+    "team": "Liverpool",
+    "name": "Liverpool home jersey",
+    "season": "2025/26",
+    "sport": "football",
+    "price": 2199,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/liverpool/0.webp",
+        "/jerseys/liverpool/1.webp",
+        "/jerseys/liverpool/2.webp",
+        "/jerseys/liverpool/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p21",
+    "slug": "real-madrid-home-2025",
+    "team": "Real Madrid",
+    "name": "Real Madrid home jersey",
+    "season": "2025/26",
+    "sport": "football",
+    "price": 2299,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/real-madrid/0.webp",
+        "/jerseys/real-madrid/1.webp",
+        "/jerseys/real-madrid/2.webp",
+        "/jerseys/real-madrid/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "p22",
+    "slug": "portugal-home-2025",
+    "team": "Portugal",
+    "name": "Portugal home jersey",
+    "season": "2025/26",
+    "sport": "football",
+    "price": 1899,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T00:00:00.000Z",
+    "photos": {
+      "frames": [
+        "/jerseys/portugal/0.webp",
+        "/jerseys/portugal/1.webp",
+        "/jerseys/portugal/2.webp",
+        "/jerseys/portugal/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  },
+  {
+    "id": "2d8b6b05-f708-4aa7-ad1b-2a40c8765a80",
+    "slug": "united-home-2025",
+    "team": "United",
+    "name": "United home jersey",
+    "season": "2025/26",
+    "sport": "football",
+    "price": 350,
+    "mrp": 500,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "customisable": true,
+    "onRack": true,
+    "createdAt": "2026-11-19T10:17:42.850Z",
+    "photos": {
+      "frames": [
+        "/jerseys/united-home-2025/0.webp",
+        "/jerseys/united-home-2025/1.webp",
+        "/jerseys/united-home-2025/2.webp",
+        "/jerseys/united-home-2025/3.webp"
+      ],
+      "rack": 1,
+      "hover": 0,
+      "thumbs": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "rackMirror": false
+    }
+  }
+]
